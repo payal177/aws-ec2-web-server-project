@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Payal's First AWS Project</title>
+</head>
+<body>
+<h1>Payal Acharya</h1>
+<p>AWS Certified Cloud Practitioner</p>
+<p>My first website hosted on Amazon EC2.</p>
+</body>
+</html>
