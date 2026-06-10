@@ -41,7 +41,9 @@ sudo systemctl start httpd
 sudo systemctl enable httpd
 ➡️ Configures Apache to start automatically whenever the server reboots.
 
-# echo'<h1>Hello from Payal's AWS Server</h1>' | sudo tee /var/www/html/index.html
+```bash
+echo "<h1>Hello from Payal's AWS Server</h1>" | sudo tee /var/www/html/index.html
+```
 
 Updated the Amazon Linux server, installed and configured Apache HTTP Server (httpd), started the service, and enabled automatic startup on system boot. 🚀☁️
 
