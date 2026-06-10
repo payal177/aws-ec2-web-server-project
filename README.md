@@ -51,5 +51,5 @@ Updated the Amazon Linux server, installed and configured Apache HTTP Server (ht
 
 Successfully hosted a static webpage on an AWS EC2 instance and accessed it through a public IP address.
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/3ed0d4dd-4e56-4bd4-8014-9eb0877a10f6" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/3ed0d4dd-4e56-4bd4-8014-9eb0877a10f6" />
 
